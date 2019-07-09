@@ -1,5 +1,6 @@
 # simple-geo-plotting
-Use list of lat/long points and render several different maps
+
+Use list of lat/long points and render several different maps, from simple denisty scatter plots to gis self-scaling plots. Additionally a simple z-score outlier mechanism is shown to flag error points from the data in red when plotted.
 
 ## simple scatter plot of lat/lon points
 
